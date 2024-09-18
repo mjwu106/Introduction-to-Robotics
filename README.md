@@ -1,4 +1,4 @@
 # Introduction-to-Robotics
 
 Lab2 Demo
-[Watch the video]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1qNeSU_71l1t8RWKd4SeCPuunBtxHNFX7/view?usp=drive_link))
+[Watch the video](https://drive.google.com/file/d/1qNeSU_71l1t8RWKd4SeCPuunBtxHNFX7/view?usp=drive_link)
